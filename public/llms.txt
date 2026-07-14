@@ -1,0 +1,109 @@
+# Dogiz — Generative Engine Optimization Map
+
+> A warm and inviting online pet store specializing in dogs and pet accessories. The brand radiates a friendly, joyful atmosphere featuring happy dogs as the central visual motif. The store offers a well-organized product catalog including toys, collars, leashes, and dog beds, with an emphasis on easy navigation, a welcoming shopping experience, and a heartfelt connection between pets and their owners.
+
+---
+
+## Pages
+
+### בית
+https://dogiz-523ad9b9.zappy5.app
+חנות אונליין חמה ומזמינה עם צעצועים, קולרים, רצועות ומיטות לכלבים. חוויית קנייה קלה ומלאת אהבה שמחברת ביניכם ובין החבר הכי טוב. היכנסו עכשיו!
+
+### הגישה שלנו
+https://dogiz-523ad9b9.zappy5.app/our-approach
+הגישה הייחודית שלנו מתמקדת בחיבור לבבי ואמיתי ביניכם לכלב שלכם. אנו בוחרים כל אביזר בקפידה כדי להבטיח נוחות, שמחה וזנבות מכשכשים. בואו להכיר מקרוב!
+
+### השראה
+https://dogiz-523ad9b9.zappy5.app/inspiration
+מחפשים השראה לשדרוג היומיום של הכלב? גלו מבחר תמונות, טיפים ורעיונות יצירתיים לשימוש באביזרים שיהפכו כל רגע משותף לחוויה בלתי נשכחת. קפצו להתרשם!
+
+### שאלות נפוצות
+https://dogiz-523ad9b9.zappy5.app/faq
+מתלבטים איזה קולר יתאים או איך לבחור מיטה מושלמת? ריכזנו עבורכם מענה מקיף לשאלות הנפוצות על אביזרים לחיות מחמד, כדי שתוכלו לקנות בביטחון ובקלות.
+
+### צור קשר
+https://dogiz-523ad9b9.zappy5.app/contact
+יש שאלה או בקשה מיוחדת? צוות Dogiz תמיד כאן בשבילכם עם חיוך ויחס אישי. צרו קשר עוד היום ונעזור לכם למצוא את האביזרים שיגרמו לכלבכם לקפוץ משמחה!
+
+### Products
+https://dogiz-523ad9b9.zappy5.app/products
+המוצרים שלנו - Dogiz
+
+### Cart
+https://dogiz-523ad9b9.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://dogiz-523ad9b9.zappy5.app/checkout
+תשלום
+
+### Login
+https://dogiz-523ad9b9.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://dogiz-523ad9b9.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://dogiz-523ad9b9.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://dogiz-523ad9b9.zappy5.app/product/:slug
+פרטי המוצר - Dogiz
+
+### Category
+https://dogiz-523ad9b9.zappy5.app/category/:slug
+מוצרים - Dogiz
+
+### תודה
+https://dogiz-523ad9b9.zappy5.app/thank-you
+Dogiz - תודה
+
+## Legal & Policy
+
+### Privacy Policy
+https://dogiz-523ad9b9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://dogiz-523ad9b9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://dogiz-523ad9b9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Dogiz
+A warm and inviting online pet store specializing in dogs and pet accessories. The brand radiates a friendly, joyful atmosphere featuring happy dogs as the central visual motif. The store offers a well-organized product catalog including toys, collars, leashes, and dog beds, with an emphasis on easy navigation, a welcoming shopping experience, and a heartfelt connection between pets and their owners.
+
+## Target Audience
+- בעלי כלבים וחיות מחמד
+- בעלי כלבים וחובבי חיות מחמד
+- הורים לחיות מחמד בעיר
+- מחפשי מוצרים יוקרתיים לחיות מחמד
+
+## Industry
+E-commerce Pet Supplies
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://dogiz-523ad9b9.zappy5.app/sitemap.xml
+- Robots: https://dogiz-523ad9b9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://dogiz-523ad9b9.zappy5.app/llms-full.txt
+- Products (JSON): https://dogiz-523ad9b9.zappy5.app/products.json
+- Products (Google Merchant RSS): https://dogiz-523ad9b9.zappy5.app/product-feed.xml
