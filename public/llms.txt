@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://dogiz-523ad9b9.zappy5.app
+https://example.com
 חנות אונליין חמה ומזמינה עם צעצועים, קולרים, רצועות ומיטות לכלבים. חוויית קנייה קלה ומלאת אהבה שמחברת ביניכם ובין החבר הכי טוב. היכנסו עכשיו!
 
 ### הגישה שלנו
-https://dogiz-523ad9b9.zappy5.app/our-approach
+https://example.com/our-approach
 הגישה הייחודית שלנו מתמקדת בחיבור לבבי ואמיתי ביניכם לכלב שלכם. אנו בוחרים כל אביזר בקפידה כדי להבטיח נוחות, שמחה וזנבות מכשכשים. בואו להכיר מקרוב!
 
 ### השראה
-https://dogiz-523ad9b9.zappy5.app/inspiration
+https://example.com/inspiration
 מחפשים השראה לשדרוג היומיום של הכלב? גלו מבחר תמונות, טיפים ורעיונות יצירתיים לשימוש באביזרים שיהפכו כל רגע משותף לחוויה בלתי נשכחת. קפצו להתרשם!
 
 ### שאלות נפוצות
-https://dogiz-523ad9b9.zappy5.app/faq
+https://example.com/faq
 מתלבטים איזה קולר יתאים או איך לבחור מיטה מושלמת? ריכזנו עבורכם מענה מקיף לשאלות הנפוצות על אביזרים לחיות מחמד, כדי שתוכלו לקנות בביטחון ובקלות.
 
 ### צור קשר
-https://dogiz-523ad9b9.zappy5.app/contact
+https://example.com/contact
 יש שאלה או בקשה מיוחדת? צוות Dogiz תמיד כאן בשבילכם עם חיוך ויחס אישי. צרו קשר עוד היום ונעזור לכם למצוא את האביזרים שיגרמו לכלבכם לקפוץ משמחה!
 
 ### Products
-https://dogiz-523ad9b9.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Dogiz
 
 ### Cart
-https://dogiz-523ad9b9.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://dogiz-523ad9b9.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://dogiz-523ad9b9.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://dogiz-523ad9b9.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://dogiz-523ad9b9.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://dogiz-523ad9b9.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Dogiz
 
 ### Category
-https://dogiz-523ad9b9.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Dogiz
 
 ### תודה
-https://dogiz-523ad9b9.zappy5.app/thank-you
+https://example.com/thank-you
 Dogiz - תודה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://dogiz-523ad9b9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://dogiz-523ad9b9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://dogiz-523ad9b9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ E-commerce Pet Supplies
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://dogiz-523ad9b9.zappy5.app/sitemap.xml
-- Robots: https://dogiz-523ad9b9.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://dogiz-523ad9b9.zappy5.app/llms-full.txt
-- Products (JSON): https://dogiz-523ad9b9.zappy5.app/products.json
-- Products (Google Merchant RSS): https://dogiz-523ad9b9.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
